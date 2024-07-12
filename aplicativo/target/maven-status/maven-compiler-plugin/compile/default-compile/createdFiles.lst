@@ -1,0 +1,4 @@
+com\example\aplicativo\controller\CasosController.class
+com\example\aplicativo\repository\CasosRepository.class
+com\example\aplicativo\model\Casos.class
+com\example\aplicativo\AplicativoApplication.class
