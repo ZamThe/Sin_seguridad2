@@ -1,4 +1,16 @@
+com\example\aplicativo\model\Usuario.class
+com\example\aplicativo\repository\UsuarioRepository.class
+com\example\aplicativo\repository\RolesUsuariosRepository.class
+com\example\aplicativo\model\RolesUsuarios.class
+com\example\aplicativo\repository\DelitosRepository.class
 com\example\aplicativo\controller\CasosController.class
+com\example\aplicativo\repository\RolesRepository.class
+com\example\aplicativo\repository\UsuariosRepository.class
+com\example\aplicativo\model\UsuarioDetalle.class
+com\example\aplicativo\model\Usuarios.class
 com\example\aplicativo\repository\CasosRepository.class
+com\example\aplicativo\model\Delitos.class
 com\example\aplicativo\model\Casos.class
 com\example\aplicativo\AplicativoApplication.class
+com\example\aplicativo\repository\UsuarioDetalleRepository.class
+com\example\aplicativo\model\Roles.class
